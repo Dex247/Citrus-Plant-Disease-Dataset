@@ -1,1 +1,1 @@
-# Citrus-Plant-Disease-Dataset
+# A dataset containing images of healthy and unhealthy citrus fruits and leaves that could be usable for the researchers to prevent plants from diseases using advanced computer vision techniques. The disease targeted in the data sets are the Blackspot, Canker, Scab, Greening, and Melanose.
